@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./assets/iconreadme.png" width="100"  />
+  <img src="./assets/iconreadme.png" width="200"  />
 </p>
 
 ---
